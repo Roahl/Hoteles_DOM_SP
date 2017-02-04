@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Hoteles>
+<Hotel Categoria="Superior" ID="2">
+      <Nombre Idiomas="Español">SanPardin</Nombre>
+      <Poblacion>Irún</Poblacion>
+      <PrecioEstandar>150</PrecioEstandar>
+   </Hotel>
+
+<Hotel Categoria="Turista" ID="1">
+      <Nombre Idiomas="Varios">Nagari</Nombre>
+      <Poblacion>Vigo</Poblacion>
+      <PrecioEstandar>650</PrecioEstandar>
+   </Hotel>
+
+<Hotel Categoria="Turista" ID="8">
+      <Nombre Idiomas="Varios">Zenith</Nombre>
+      <Poblacion>Madrid</Poblacion>
+      <PrecioEstandar>300</PrecioEstandar>
+   </Hotel>
+<Hotel Categoria="Turista" ID="5">
+      <Nombre Idiomas="Varios">Mansión Adams</Nombre>
+      <Poblacion>Transylvania</Poblacion>
+      <PrecioEstandar>50</PrecioEstandar>
+   </Hotel>
+<Hotel Categoria="Turista" ID="6">
+      <Nombre Idiomas="Español">Gran Domine</Nombre>
+      <Poblacion>Bilbao</Poblacion>
+      <PrecioEstandar>700</PrecioEstandar>
+   </Hotel>
+</Hoteles>
