@@ -40,11 +40,8 @@ public class Altas {
                 System.out.printf("Deme categoria del hotel(1->Turista/2->Superior): ");
                 op = Byte.parseByte(lee.readLine());
             } while (op != 1 && op != 2);
-            if (op == 1)
-                categoria = "Turista";
-            else
-                categoria = "Superior";
-            
+            categoria = op == 1 ? "Turista" : "Superior";
+
             hotel.setAttribute("Categoria", categoria);
 
             //POBLACIÓN
